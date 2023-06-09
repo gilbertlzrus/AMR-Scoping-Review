@@ -1,0 +1,87 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Database of the documents, knowledge gaps, and research
+  questions included in the scoping review on antimicrobial
+  resistance in the human health sector
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Raph L
+    family-names: Hamers
+    email: rhamers@oucru.org
+    affiliation: >-
+      Oxford University Clinical Research Unit Indonesia,
+      Faculty of Medicine Universitas Indonesia, Jakarta,
+      Indonesia
+    orcid: 'https://orcid.org/0000-0002-5007-7896'
+  - given-names: Zlatina
+    family-names: Dobreva
+    affiliation: >-
+      Antimicrobial Resistance Division, World Health
+      Organization, Geneva, Switzerland
+  - given-names: Alessandro
+    family-names: Cassini
+    affiliation: >-
+      Antimicrobial Resistance Division, World Health
+      Organization, Geneva, Switzerland
+  - given-names: Alice
+    family-names: Tamara
+    email: atamara@oucru.org
+    affiliation: >-
+      Oxford University Clinical Research Unit Indonesia,
+      Faculty of Medicine Universitas Indonesia, Jakarta,
+      Indonesia
+  - given-names: Gilbert
+    family-names: Lazarus
+    email: glazarus@oucru.org
+    affiliation: >-
+      Oxford University Clinical Research Unit Indonesia,
+      Faculty of Medicine Universitas Indonesia, Jakarta,
+      Indonesia
+    orcid: 'https://orcid.org/0000-0002-3605-6167'
+  - given-names: Koe Stella
+    family-names: Asadinia
+    affiliation: >-
+      Oxford University Clinical Research Unit Indonesia,
+      Faculty of Medicine Universitas Indonesia, Jakarta,
+      Indonesia
+  - given-names: Stefano
+    family-names: Burzo
+    affiliation: >-
+      Antimicrobial Resistance Division, World Health
+      Organization, Geneva, Switzerland
+  - given-names: Ioana
+    name-particle: Diana
+    family-names: Olaru
+    affiliation: >-
+      Institute of Medical Microbiology, University of
+      Münster, Münster, Germany
+  - given-names: Daniele
+    family-names: Dona
+    affiliation: >-
+      Antimicrobial Resistance Division, World Health
+      Organization, Geneva, Switzerland
+  - given-names: Fiona
+    family-names: Emdin
+    affiliation: 'Global Strategy Lab, Toronto, Canada'
+  - given-names: Kitty
+    name-particle: van
+    family-names: Weezenbeek
+    affiliation: >-
+      Antimicrobial Resistance Division, World Health
+      Organization, Geneva, Switzerland
+  - given-names: Silvia
+    family-names: Bertagnolio
+    affiliation: >-
+      Antimicrobial Resistance Division, World Health
+      Organization, Geneva, Switzerland
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/gilbertlzrus/AMR-scoping-review/tree/8439c474899238b9b27ef3eb1ea2429a53c94301
+license: CC-BY-4.0
